@@ -1,4 +1,6 @@
-const hero () => {
+ import "./hero.css";
+ 
+ const hero () => {
     return 
 }
 
