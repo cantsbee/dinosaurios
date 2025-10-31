@@ -1,12 +1,12 @@
 
 import './App.css'
 // src/App.jsx
-import Hero from "./components/Hero";
+import hero from "./components/hero";
 
 export default function App() {
   return (
     <>
-      <Hero />
+      <hero /> 
     </>
   );
 }

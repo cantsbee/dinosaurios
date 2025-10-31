@@ -3,7 +3,7 @@
 // src/components/Hero.jsx
 import ConnectSpotify from "./ConnectSpotify";
 
-export default function Hero() {
+export default function hero() {
   return (
     <section className="flex flex-col items-center justify-center min-h-screen bg-gradient-to-br from-purple-900 via-black to-green-800 text-white text-center px-6">
       <h1 className="text-5xl font-bold mb-6">Bienvenida a tu experiencia musical 🌈</h1>
