@@ -1,8 +1,12 @@
 
 import './App.css'
+// src/App.jsx
+import Hero from "./components/Hero";
 
-function App() {
- 
+export default function App() {
+  return (
+    <>
+      <Hero />
+    </>
+  );
 }
-
-export default App
